@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi 👋, thanks for stopping by!
 
-<!--
-**guigs10mil/guigs10mil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **GAME and WEB DEVELOPER** interested in creating dynamic jaw dropping experiences.
 
-Here are some ideas to get you started:
+Some of my games can be downloaded and played online on my [ITCH.IO PAGE](https://guigs10mil.itch.io).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also check out my [WEBSITE](https://guigs10mil.github.io/portfolio) to see more information about me!
+
+### Tools I Use:
+- Game Development
+  - Unity
+  - Unreal
+  - Blender
+  - Aseprite
+  - FL Studio
+
+- Web Development
+  - React / React Native
+  - Typescript
+  - Redux
+  - ThreeJS
