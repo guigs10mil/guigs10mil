@@ -6,7 +6,7 @@ Some of my games can be downloaded and played online on my [ITCH.IO PAGE](https:
 
 Also check out my [WEBSITE](https://guigs10mil.github.io/portfolio) or my [LINKEDIN](https://www.linkedin.com/in/guilhermeschoueri) to see more information about me!
 
-Or just send me an E-Mail addressed to: guilhermeschoueri@gmail.com
+Or just send me an E-Mail to: guilhermeschoueri@gmail.com
 
 ### Tools I Use:
 - Game Development
